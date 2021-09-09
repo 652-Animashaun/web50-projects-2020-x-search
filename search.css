@@ -1,0 +1,44 @@
+/*css project0 "Search"*/
+
+
+@media screen and (max-width: 600px){
+  .searchbutton{
+    display: none;
+  }
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.form-rounded {
+border-radius: 3rem;
+border: 1px solid;
+}
+
+.label-col{
+	float: left;
+	display: inline-block;
+	font-size: 14px;
+}
+
+.logo{
+
+	display: inline-block;
+
+}
+
+.logo-img{
+	background-image: ""
+
+}
+
+.topbot{
+	margin:20px 0px 20px 0px;
+	border-bottom: 1px solid;
+}
